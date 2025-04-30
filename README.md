@@ -3,20 +3,13 @@
 <h2>👨‍💻 Healthcare Analytics Projects:</h2>
 
 - <b> R Analytic Software </b>
-  - [Injury Surveillance - Calculating Injury Mortality Rates ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Injury Surveillance - Mortality Rate Calculator ](https://github.com/Leomar-White/motality-rates)
 - <b> Statistical Analysis Software (SAS) (Factor Analysis, Multivariable Regression </b>
-  - [Longitudinal Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Longitudinal Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>SQL</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b> Tableau </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - 
+  - [Program Evaluation - Longitudinal Health Intervention]()
+  - [E-Scoter Study]()
 
 
+<!--
 <h2> Certifications</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
