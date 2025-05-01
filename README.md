@@ -4,7 +4,7 @@
 
 - <b> R Analytic Software </b>
   - [Injury Surveillance - Mortality Rate Calculator ](https://github.com/Leomar-White/motality-rates)
-- <b> Statistical Analysis Software (SAS) (Factor Analysis, Multivariable Regression </b>
+- <b> Statistical Analysis Software (SAS) (Factor Analysis, Multivariable Regression) </b>
   - [Program Evaluation - Longitudinal Health Intervention]()
   - [E-Scoter Study]()
 
@@ -12,9 +12,9 @@
 <!--
 <h2> Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- Applied Biostatistics (University of South Florida)
+- Certified In Public Health - Provisional
+- Citi 
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
