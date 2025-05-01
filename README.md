@@ -11,7 +11,7 @@
 - **Statistical Analysis Software (SAS)**  
   *Includes Factor Analysis, Multivariable Regression, Longitudinal Design, and Cross-Sectional Studies*
   - [Operation Restore – Program Evaluation of a Health Intervention](https://github.com/Leomar-White/Operation-Restore/tree/main)
-  - *E-Scooter Study* (Coming Soon)
+  - *Cross-Sectional E-Scooter Study* (Coming Soon)
 
 ---
 
