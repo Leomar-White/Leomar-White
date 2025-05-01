@@ -1,5 +1,5 @@
 # Hi, I'm Leomar!  
-[Public Health Research](https://www.researchgate.net/profile/Leomar-White) • [Data Analyst](https://www.linkedin.com/in/leomarwhite/) • [MPH Student](https://www.usf.edu/health/public-health/news/2024/apha-research.aspx)
+[Data Analyst](https://www.linkedin.com/in/leomarwhite/) • [Public Health Researcher](https://www.researchgate.net/profile/Leomar-White) • [MPH Student](https://www.usf.edu/health/public-health/news/2024/apha-research.aspx)
 
 ---
 
