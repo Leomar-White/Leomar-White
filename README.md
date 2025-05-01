@@ -1,36 +1,22 @@
-<h1>Hi, I'm Leomar! <br/><a href="https://www.researchgate.net/profile/Leomar-White"> Public Health Research </a>, <a href="https://www.linkedin.com/in/leomarwhite/"> Data Analyst </a>, <a href="https://www.usf.edu/health/public-health/news/2024/apha-research.aspx"> MPH Student </a></h1>
+# Hi, I'm Leomar!  
+[Public Health Research](https://www.researchgate.net/profile/Leomar-White) • [Data Analyst](https://www.linkedin.com/in/leomarwhite/) • [MPH Student](https://www.usf.edu/health/public-health/news/2024/apha-research.aspx)
 
-<h2>👨‍💻 Healthcare Analytics Projects:</h2>
+---
 
-- <b> R Analytic Software </b>
-  - [Injury Surveillance - Mortality Rate Calculator ](https://github.com/Leomar-White/motality-rates)
-- <b> Statistical Analysis Software (SAS) (Factor Analysis, Multivariable Regression) </b>
-  - [Operation Restore (Program Evaluation) - Longitudinal Health Intervention](https://github.com/Leomar-White/Operation-Restore/tree/main)
-  - [E-Scoter Study]()
+## 👨‍💻 Healthcare Analytics Projects
 
+- **R Analytic Software**
+  - [Injury Surveillance – Mortality Rate Calculator](https://github.com/Leomar-White/motality-rates)
 
-<!--
-<h2> Certifications</h2>
+- **Statistical Analysis Software (SAS)**  
+  *Includes Factor Analysis, Multivariable Regression,Longitudinal Design and Cross Sectional Studies*
+  - [Operation Restore – Program Evaluation of a Health Intervention](https://github.com/Leomar-White/Operation-Restore/tree/main)
+  - *E-Scooter Study* (Coming Soon)
 
-- Applied Biostatistics (University of South Florida)
-- Certified In Public Health - Provisional
-- Citi 
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
+## 📜 Certifications
 
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Applied Biostatistics (University of South Florida)  
+- Certified in Public Health – *Provisional*  
+- [2023 SAS Curiosity Cup Participant](https://www.credly.com/badges/f71363fe-457b-440d-8206-692f425613f5/linked_in_profile)
