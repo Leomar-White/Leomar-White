@@ -9,7 +9,7 @@
   - [Injury Surveillance – Mortality Rate Calculator](https://github.com/Leomar-White/motality-rates)
 
 - **Statistical Analysis Software (SAS)**  
-  *Includes Factor Analysis, Multivariable Regression,Longitudinal Design and Cross Sectional Studies*
+  *Includes Factor Analysis, Multivariable Regression, Longitudinal Design, and Cross-Sectional Studies*
   - [Operation Restore – Program Evaluation of a Health Intervention](https://github.com/Leomar-White/Operation-Restore/tree/main)
   - *E-Scooter Study* (Coming Soon)
 
