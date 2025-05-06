@@ -18,5 +18,5 @@
 ## 📜 Certifications
 
 - Applied Biostatistics (University of South Florida)  
-- Certified in Public Health – *Provisional*  
+- Certified in Public Health – *Provisional* (National Board of Public Health Examiners)
 - [2023 SAS Curiosity Cup Participant](https://www.credly.com/badges/f71363fe-457b-440d-8206-692f425613f5/linked_in_profile)
